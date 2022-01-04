@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I'm Victory, an Executive[^1] Full Stack Software Engineer.
+- Before working in STEM, I studied Music (mostly piano performance) and Psychology (I specialized in behavioral).
+- I’m currently working on personal projects and studying Data Structures & Algorithms.
+- I was also in a video game/anime cover band called もしもし ([Moshi Moshi](https://www.youtube.com/moshimoshibandmusic))
+- If you want to say talk, ask questions, or just say hi, [shoot me a message](mailto:victory.kim92@gmail.com).
+
+[^1]: "It's a meaningless title, but it helps insecure people feel better about themselves." - Hermes Conrad (Futurama 6x17)
+
 <!--
 **Victorywastaken/victorywastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
